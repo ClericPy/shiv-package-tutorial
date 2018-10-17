@@ -4,6 +4,10 @@ Show how to shiv your product into one-file for distribution with shiv.
 
 > same as https://shiv.readthedocs.io/en/latest/django.html
 
+## Usage
+
+```python3 shiv_me.py```
+
 - requirements.txt
   - pip install -r requirements.txt
 
