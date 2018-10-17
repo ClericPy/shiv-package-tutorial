@@ -8,6 +8,9 @@ Show how to shiv your product into one-file for distribution with shiv.
 
 ```python3 shiv_me.py```
 
+
+## Details
+
 - requirements.txt
   - pip install -r requirements.txt
 
